@@ -10,7 +10,7 @@ import Projects from "./components/Projects/Projects";
 
 export default function App() {
   return (
-    <div id="dipanshu_portfolio" className="h-screen">
+    <div id="dipanshu_portfolio" className="h-screen font-prompt">
       {/* <nav className="py-4 bg-red-400 text-red-100 text-sm md:text-lg font-semibold">
         <ul className="flex justify-between mx-auto max-w-5xl">
           <li className="transition duration-200 delay-75 text-slate-300 hover:text-red-900">
@@ -28,10 +28,10 @@ export default function App() {
         </ul>
       </nav> */}
 
-      <main id="hero" className="xl:h-screen text-center bg-red-100">
+      <main id="hero" className="text-center bg-red-100">
         <div className="pt-16 mb-8">
           <img
-            className="transition duration-500 delay-100 mx-auto rounded-full w-[200px] shadow-2xl shadow-red-700 hover:scale-125"
+            className="transition duration-500 delay-100 mx-auto rounded-full w-[200px] shadow-2xl shadow-red-700 hover:scale-110"
             src={Me}
             alt="Dipanshu's Profile Picture"
           />
@@ -41,12 +41,12 @@ export default function App() {
         </h1>
         <h3 className="pt-10 text-red-500 text-3xl lg:text-5xl font-medium">
           I am a{" "}
-          <span className="transition duration-700 delay-100 hover:text-red-800">
+          <span className="font-dancingSpirit transition duration-700 delay-100 hover:text-red-800">
             full-stack
           </span>{" "}
           developer
         </h3>
-        <ul className="pt-20 pb-10 flex justify-center gap-20 text-red-600 text-3xl lg:text-5xl">
+        <ul className="py-24 flex justify-center gap-20 text-red-600 text-3xl lg:text-5xl">
           <li className="transition duration-200 delay-75 hover:scale-150 hover:text-red-900">
             <a href="https://www.linkedin.com/in/dipanshu-torawane/">
               <FaLinkedin />
