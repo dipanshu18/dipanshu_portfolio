@@ -20,6 +20,7 @@ const skills = [
   "Docker",
   "Java",
   "C",
+  "Flask",
   "C++",
 ];
 
