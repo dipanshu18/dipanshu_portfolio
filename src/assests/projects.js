@@ -19,7 +19,7 @@ const projects = [
     id: 3,
     title: "Gamei Pedia",
     description:
-      "This project is aimed towards exploring API for dynamic data of the video games which is provided by RAWG. We have a SPA of upcoming releases, popular releases, and currently released information on the video games with appropriate thumbnails and in-game screenshots for giving the user an overview of the game. This also includes search functionality in which the user can search for a specific video game.",
+      "We have a SPA of upcoming, popular, and currently released info on the video games with appropriate thumbnails and in-game screenshots for giving the user an overview of the game. This also includes search functionality for a specific video game.",
     codeLink: "https://github.com/dipanshu18/gamei-pedia",
     demoLink: "",
   },
@@ -27,7 +27,7 @@ const projects = [
     id: 4,
     title: "Capture Portfolio Template",
     description:
-      "This project is a SPA of portfolio for photographers or videographers in which there are lots of cool visual animations for a smooth user interface. There is a great colour scheme that is applied so that it truly describes their work and it’s mobile responsive.",
+      "SPA of portfolio for photographers or videographers in which there are lots of cool visual animations for a smooth user interface and great colour scheme that is applied so that it truly describes their work.",
     codeLink: "https://github.com/dipanshu18/capture-portfolio-template",
     demoLink: "https://capture-portfolio-template.vercel.app/",
   },
