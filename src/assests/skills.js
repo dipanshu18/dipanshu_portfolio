@@ -5,6 +5,7 @@ const skills = [
   "SASS",
   "Javascript",
   "Reactjs",
+  "Redux",
   "Typescript",
   "Nodejs",
   "Express",

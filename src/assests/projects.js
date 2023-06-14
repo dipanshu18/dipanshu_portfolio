@@ -5,7 +5,7 @@ const projects = [
     description:
       "CollegeBay is an online marketplace for college students to buy and sell college-related materials. The platform is designed to make it easy for students to find what they need, sell what they do not, and connect with other students in the same college or university.",
     codeLink: "https://github.com/dipanshu18/collegebay",
-    demoLink: "",
+    demoLink: "https://github.com/dipanshu18/collegebay",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const projects = [
     description:
       "We have a SPA of upcoming, popular, and currently released info on the video games with appropriate thumbnails and in-game screenshots for giving the user an overview of the game. This also includes search functionality for a specific video game.",
     codeLink: "https://github.com/dipanshu18/gamei-pedia",
-    demoLink: "",
+    demoLink: "https://gamei-pedia.vercel.app/",
   },
   {
     id: 4,
